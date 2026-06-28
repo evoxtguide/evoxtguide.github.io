@@ -1,5 +1,7 @@
 # 2026 年高性能 VPS 服务器 Evoxt 优惠码整理汇总
 
+> 💡 **阅读提示**：为了获得更好的排版体验以及获取最新、实时的优惠码，建议直接访问我们的指南网站：**[Evoxt 优选指南](https://evoxtguide.github.io)**
+
 Evoxt 虽然是 2020 年成立的，但凭借高性能硬件配置和相对亲民的价格，这两年还是吸引了不少用户。
 
 下面先简单介绍一下这家服务商的基本情况。
@@ -10,9 +12,9 @@ Evoxt 是一家成立于 2020 年的 VPS 主机服务商，主要提供基于 KV
 
 这家服务商的特点是专注做高性能 VPS，虽然他们提供的套餐类型不算特别多，但每一款的配置都比较均衡，没有那种明显短板的感觉。而且最低套餐起步价仅 **$2.99/月**，对于预算有限的用户来说门槛不算高。
 
-**访问 Evoxt 官网：** [https://evoxt.com](https://console.evoxt.com/aff.php?aff=1780)
+**访问 Evoxt 官网：** [https://evoxt.com](https://console.evoxt.com/aff.php?aff=4560)
 
-![Evoxt 官网截图](./public/evoxt.webp)
+![Evoxt 官网截图](./web/dist/evoxt.webp)
 
 从实际使用体验来看，Evoxt 的服务器不仅 CPU 性能极强，其 I/O 性能也很出色，跑数据库或者需要频繁读写的应用都比较流畅。后台控制面板也做得挺简洁，重装系统、查看监控数据这些操作都很方便。
 
@@ -31,10 +33,10 @@ Evoxt 是一家成立于 2020 年的 VPS 主机服务商，主要提供基于 KV
 
 目前 Evoxt 可用的优惠码不算多，但还是能帮大家省下一些费用。下面整理了目前我了解到的 Evoxt 优惠码。
 
-- **AFF1780-VPSZHIJIA**（长期有效）：折扣力度为 5%。虽然折扣不算特别高，但所有套餐都能使用。
+- **AFF4560-EVOXTGUIDE**（长期有效）：折扣力度为 5%。虽然折扣不算特别高，但所有套餐都能使用。
 - **EVOXT595**（已过期）：可以享受 40% 的循环折扣，适用于 VM-1 及以上套餐。
 
-[点击访问 Evoxt 官网查看最新的优惠活动](https://console.evoxt.com/aff.php?aff=1780)
+[点击访问 Evoxt 官网查看最新的优惠活动](https://console.evoxt.com/aff.php?aff=4560)
 
 需要提醒的是，VPS 优惠码通常都有时效性，可能随时会失效或者被新的优惠活动替代。
 
@@ -52,17 +54,17 @@ Evoxt 的套餐分为两类：**标准网络**和**高级网络**（Premium Netw
 
 | 套餐名称 | CPU 核心 | 内存 | 存储空间 | 月流量 | 备份服务 | 价格 | 购买链接 |
 |---------|---------|------|---------|--------|---------|------| --- |
-| VM-0.5 | 1 核心 (最高 6.0 GHz) | 512 MB | 5 GB | 500 GB | 每周备份 | $2.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-0.75 | 1 核心 (最高 6.0 GHz) | 1 GB | 10 GB | 750 GB | 每周备份 | $4.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-1 | 1 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 1000 GB | 每周备份 | $5.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-1.5 | 2 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 1500 GB | 每周备份 | $6.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-2 | 2 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 2000 GB | 每周备份 | $11.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-3 | 4 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 3000 GB | 每周备份 | $14.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-4 | 4 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 4000 GB | 每周备份 | $23.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-6 | 8 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 5000 GB | 每周备份 | $29.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-8 | 8 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 6000 GB | 每周备份 | $47.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-12 | 16 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 8000 GB | 每周备份 | $60.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-16 | 16 核心 (最高 6.0 GHz) | 32 GB | 100 GB | 10 TB | 每周备份 | $95.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
+| VM-0.5 | 1 核心 (最高 6.0 GHz) | 512 MB | 5 GB | 500 GB | 每周备份 | $2.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-0.75 | 1 核心 (最高 6.0 GHz) | 1 GB | 10 GB | 750 GB | 每周备份 | $4.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-1 | 1 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 1000 GB | 每周备份 | $5.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-1.5 | 2 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 1500 GB | 每周备份 | $6.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-2 | 2 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 2000 GB | 每周备份 | $11.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-3 | 4 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 3000 GB | 每周备份 | $14.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-4 | 4 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 4000 GB | 每周备份 | $23.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-6 | 8 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 5000 GB | 每周备份 | $29.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-8 | 8 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 6000 GB | 每周备份 | $47.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-12 | 16 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 8000 GB | 每周备份 | $60.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-16 | 16 核心 (最高 6.0 GHz) | 32 GB | 100 GB | 10 TB | 每周备份 | $95.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
 
 ### 高级网络套餐配置
 
@@ -70,17 +72,17 @@ Evoxt 的套餐分为两类：**标准网络**和**高级网络**（Premium Netw
 
 | 套餐名称 | CPU 核心 | 内存 | 存储空间 | 月流量 | 备份服务 | 价格 | 购买链接 |
 |---------|---------|------|---------|--------|---------|------| --- |
-| VM-0.5 | 1 核心 (最高 6.0 GHz) | 512 MB | 5 GB | 250 GB | 每周备份 | $2.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-0.75 | 1 核心 (最高 6.0 GHz) | 1 GB | 10 GB | 250 GB | 每周备份 | $4.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-1 | 1 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 500 GB | 每周备份 | $5.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-1.5 | 2 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 500 GB | 每周备份 | $6.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-2 | 2 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 1000 GB | 每周备份 | $11.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-3 | 4 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 1000 GB | 每周备份 | $14.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-4 | 4 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 2000 GB | 每周备份 | $23.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-6 | 8 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 2000 GB | 每周备份 | $29.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-8 | 8 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 3000 GB | 每周备份 | $47.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-12 | 16 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 3000 GB | 每周备份 | $60.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
-| VM-16 | 16 核心 (最高 6.0 GHz) | 32 GB | 100 GB | 5000 GB | 每周备份 | $95.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=1780) |
+| VM-0.5 | 1 核心 (最高 6.0 GHz) | 512 MB | 5 GB | 250 GB | 每周备份 | $2.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-0.75 | 1 核心 (最高 6.0 GHz) | 1 GB | 10 GB | 250 GB | 每周备份 | $4.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-1 | 1 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 500 GB | 每周备份 | $5.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-1.5 | 2 核心 (最高 6.0 GHz) | 2 GB | 20 GB | 500 GB | 每周备份 | $6.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-2 | 2 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 1000 GB | 每周备份 | $11.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-3 | 4 核心 (最高 6.0 GHz) | 4 GB | 30 GB | 1000 GB | 每周备份 | $14.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-4 | 4 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 2000 GB | 每周备份 | $23.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-6 | 8 核心 (最高 6.0 GHz) | 8 GB | 60 GB | 2000 GB | 每周备份 | $29.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-8 | 8 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 3000 GB | 每周备份 | $47.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-12 | 16 核心 (最高 6.0 GHz) | 16 GB | 80 GB | 3000 GB | 每周备份 | $60.95/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
+| VM-16 | 16 核心 (最高 6.0 GHz) | 32 GB | 100 GB | 5000 GB | 每周备份 | $95.99/月 | [立即购买](https://console.evoxt.com/aff.php?aff=4560) |
 
 ### 可选升级项目
 
@@ -127,4 +129,5 @@ Evoxt 的套餐分为两类：**标准网络**和**高级网络**（Premium Netw
 
 ---
 
-如果你想了解更详细的用户评价和深度测评：[点击查看更多](https://console.evoxt.com/aff.php?aff=1780)
+* 📖 **在线阅读**：[Evoxt 优选指南 (evoxtguide.github.io)](https://evoxtguide.github.io)（获取最新优惠券与更佳阅读体验）
+* 💬 **用户评价与测评**：如果你想了解更详细的用户评价和深度测评，可以[点击查看更多](https://console.evoxt.com/aff.php?aff=4560)
